@@ -1,0 +1,49 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'Fira Code' , 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+
+  "editor.detectIndentation": false,
+
+  "colorize.languages": [
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "javascript",
+    "css",
+    "scss"
+  ],
+  "editor.bracketPairColorization.enabled": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "explorer.confirmDelete": false,
+  // "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    // "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.preferences.quoteStyle": "single",
+  "workbench.editor.untitled.hint": "hidden",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "redhat.telemetry.enabled": false,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "workbench.colorTheme": "Aura Dark (Soft Text)"
+}
