@@ -1,0 +1,15 @@
+{
+  "hosts": {
+    "http://phabricator.enviabybus.com.br/api/": {
+      "token": "cli-vx6y3uwcisgozxzmnso737vb65wm"
+    }
+  },
+  "config": {
+    "hosts": {
+      "http://phabricator.enviabybus.com.br/api/": {
+        "token": "cli-vx6y3uwcisgozxzmnso737vb65wm"
+      }
+    },
+    "phabricator.uri": "http://phabricator.enviabybus.com.br/"
+  }
+}

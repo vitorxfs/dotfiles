@@ -1,0 +1,7 @@
+{
+  "phabricator.uri": "http://phabricator.enviabybus.com.br/",
+  "load": [
+    "src/"
+  ],
+  "history.immutable": false
+}
